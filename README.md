@@ -35,7 +35,8 @@
 ### 📊 **GitHub Stats**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShazzaMac&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShazzaMac&theme=tokyonight" />
+  <br/>
+<img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=ShazzaMac&theme=tokyonight" />
 </p>
 
 ## 📫 Connect with Me  
