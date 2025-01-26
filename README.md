@@ -35,9 +35,7 @@
 ### 📊 **GitHub Stats**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShazzaMac&show_icons=true&theme=tokyonight" />
-  <br/>
-<img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=ShazzaMac&theme=tokyonight" />
-</p>
+  </p>
 
 ## 📫 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/sharon-plumridge-mcaleer)  
