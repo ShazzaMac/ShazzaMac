@@ -9,7 +9,7 @@
 
 ## 🚀 About Me  
 - 🎓 Master’s student at Queen's University Belfast working on my final major project
-- 📌 Workig in Tier 2 Software Support
+- 📌 Working as a Development Project Manger
 - 🔥 Passionate about Personal Development and Education 
 - 🎯 Currently learning React, Python and PostgreSQL 
 
