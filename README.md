@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ShazzaMac!</h1>
-<h3 align="center">🚀 Software Support | Aspiring Engineer | Master's Student</h3>
+<h3 align="center">🚀 Development Project Manager | Aspiring Engineer | Master's Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShazzaMac&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
