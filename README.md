@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm ShazzaMac!</h1>
-<h3 align="center">🚀 Development Project Manager | Aspiring Engineer | Queens Post-Graduate</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShazzaMac&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/ShazzaMac?label=Followers&style=social" alt="GitHub followers" />
@@ -9,10 +7,9 @@
 
 ## 🚀 About Me  
 - 🎓 Graduated Master’s student from Queen's University Belfast 
-- 📌 Working as a Development Project Manger
+- 📌 Working as a QA Engineer
 - 🔥 Passionate about Personal Development and Education 
 - 🎯 Previously learnt React, Python and PostgreSQL for my final major Project
-- 🦫 Currently looking into learning GoLang
 
 ## 🛠 Technologies & Tools  
 💻 Python | Django | PostgreSQL | JavaScript  
